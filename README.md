@@ -7,11 +7,16 @@
   ```npm install figlet readline```
   now run <b>node starcap.js</b> or the file you added starcap to and you should get a output simular to this
   ```
-    _     _            ___            ____
+  _     _            ___            ____
+  
  | |   | |    _ __  ( _ ) _ __ ___ | ___|
+ 
  | |   | |   | '_ \ / _ \| '_ ` _ \|___ \
+ 
  | |___| |___| | | | (_) | | | | | |___) |
+ 
  |_____|_____|_| |_|\___/|_| |_| |_|____/
+ 
 
 Starcap | V1.0.0
 Enter the captcha code shown above:
