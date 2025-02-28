@@ -17,4 +17,5 @@
 Starcap | V1.0.0
 Enter the captcha code shown above:
 ```
-
+## update log
+> 28/02/25/81:17 v1.0.0 | added ascii captcha
