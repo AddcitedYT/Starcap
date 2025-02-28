@@ -1,2 +1,2 @@
 # Starcap
-![plot](image1.png)
+![plot](https://i.imgur.com/Vj7jNGO.png)
